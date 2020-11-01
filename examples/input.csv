@@ -1,0 +1,6 @@
+timestamp,action,order_id,side,price,size
+1602474563,cancel,0,buy,100,100
+1602474563,insert,1,buy,100,25
+1602474563,insert,2,sell,105,100
+1602474563,insert,3,sell,105,3
+1602474563,insert,4,buy,105,3
